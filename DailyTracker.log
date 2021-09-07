@@ -1,0 +1,912 @@
+2021-08-21T00:51:40.198Z 
+**********************
+2021-08-21T00:53:28.881Z 
+**********************
+No Updates.
+End ... 
+
+
+2021-08-21T00:55:54.713Z 
+**********************
+2021-08-22T01:16:28.811Z 
+**********************
+2021-08-22T01:38:18.751Z 
+**********************
+{
+  object: 'page',
+  id: '7e044865-418a-4282-b547-af70a5bbcbd4',
+  created_time: '2021-08-21T00:47:00.000Z',
+  last_edited_time: '2021-08-21T05:27:00.000Z',
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-7e044865418a4282b547af70a5bbcbd4'
+}
+End ... 
+
+
+{
+  object: 'page',
+  id: 'a23f3004-439c-4e1c-bc4d-5b410c83c374',
+  created_time: '2021-08-22T01:38:00.000Z',
+  last_edited_time: '2021-08-22T01:38:00.000Z',
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-a23f3004439c4e1cbc4d5b410c83c374'
+}
+Success! Entry added.
+2021-08-22T01:39:10.640Z 
+**********************
+No Updates.
+End ... 
+
+
+2021-08-23T00:56:06.831Z 
+**********************
+2021-08-23T00:56:27.894Z 
+**********************
+{
+  object: 'page',
+  id: 'a23f3004-439c-4e1c-bc4d-5b410c83c374',
+  created_time: '2021-08-22T01:38:00.000Z',
+  last_edited_time: '2021-08-22T03:39:00.000Z',
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-a23f3004439c4e1cbc4d5b410c83c374'
+}
+{
+  object: 'page',
+  id: 'b8fcb2de-a7be-4a67-9b0c-802f6869c52b',
+  created_time: '2021-08-21T02:12:00.000Z',
+  last_edited_time: '2021-08-22T13:59:00.000Z',
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Econimist-Reading-1-article-b8fcb2dea7be4a679b0c802f6869c52b'
+}
+{
+  object: 'page',
+  id: 'f7ce49bb-3cf7-4170-8a61-c76b069ba41b',
+  created_time: '2021-08-23T00:56:00.000Z',
+  last_edited_time: '2021-08-23T00:56:00.000Z',
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-f7ce49bb3cf741708a61c76b069ba41b'
+}
+Success! Entry added.
+{
+  object: 'page',
+  id: 'c31b1593-d23e-48a2-b830-28e389ab4910',
+  created_time: '2021-08-23T00:56:00.000Z',
+  last_edited_time: '2021-08-23T00:56:00.000Z',
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Econimist-Reading-1-article-c31b1593d23e48a2b83028e389ab4910'
+}
+Success! Entry added.
+End ... 
+
+
+2021-08-23T00:56:49.663Z 
+**********************
+No Updates.
+End ... 
+
+
+2021-08-24T09:02:16.549Z 
+**********************
+2021-08-24T09:05:34.299Z 
+**********************
+{
+  object: 'page',
+  id: 'f7ce49bb-3cf7-4170-8a61-c76b069ba41b',
+  created_time: '2021-08-23T00:56:00.000Z',
+  last_edited_time: '2021-08-23T12:37:00.000Z',
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-f7ce49bb3cf741708a61c76b069ba41b'
+}
+{
+  object: 'page',
+  id: 'd907011e-fa9a-4994-9f88-23f30cda0f9d',
+  created_time: '2021-08-24T09:05:00.000Z',
+  last_edited_time: '2021-08-24T09:05:00.000Z',
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-d907011efa9a49949f8823f30cda0f9d'
+}
+Success! Entry added.
+End ... 
+
+
+2021-08-25T08:47:48.996Z 
+**********************
+2021-08-26T02:37:50.031Z 
+**********************
+2021-08-27T09:37:57.796Z 
+**********************
+2021-08-28T03:39:08.986Z 
+**********************
+2021-08-28T03:40:27.763Z 
+**********************
+{
+  object: 'page',
+  id: 'd907011e-fa9a-4994-9f88-23f30cda0f9d',
+  created_time: '2021-08-24T09:05:00.000Z',
+  last_edited_time: '2021-08-26T05:10:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-d907011efa9a49949f8823f30cda0f9d'
+}
+{
+  object: 'page',
+  id: 'c31b1593-d23e-48a2-b830-28e389ab4910',
+  created_time: '2021-08-23T00:56:00.000Z',
+  last_edited_time: '2021-08-27T14:42:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Econimist-Reading-1-article-c31b1593d23e48a2b83028e389ab4910'
+}
+{
+  object: 'page',
+  id: 'c3d997cc-7707-4fcc-a733-56cf600e6d9f',
+  created_time: '2021-08-21T02:11:00.000Z',
+  last_edited_time: '2021-08-27T14:42:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/IELTS-Reading-c3d997cc77074fcca73356cf600e6d9f'
+}
+{
+  object: 'page',
+  id: '5790c3dd-7b6f-4242-bf9e-3fc171272c09',
+  created_time: '2021-08-09T08:55:00.000Z',
+  last_edited_time: '2021-08-27T14:42:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/IELTS-Listening-5790c3dd7b6f4242bf9e3fc171272c09'
+}
+{
+  object: 'page',
+  id: '75d272bc-5d9a-4749-8d1e-3c8e0a4e8b1e',
+  created_time: '2021-08-28T03:40:00.000Z',
+  last_edited_time: '2021-08-28T03:40:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-75d272bc5d9a47498d1e3c8e0a4e8b1e'
+}
+Success! Entry added.
+{
+  object: 'page',
+  id: '384b1e96-8ba7-4f1f-8ea0-5c9f4ba2bcb8',
+  created_time: '2021-08-28T03:40:00.000Z',
+  last_edited_time: '2021-08-28T03:40:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Econimist-Reading-1-article-384b1e968ba74f1f8ea05c9f4ba2bcb8'
+}
+Success! Entry added.
+{
+  object: 'page',
+  id: 'ccdc8bf6-18c8-4689-a758-1bffce9e8eaa',
+  created_time: '2021-08-28T03:40:00.000Z',
+  last_edited_time: '2021-08-28T03:40:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/IELTS-Reading-ccdc8bf618c84689a7581bffce9e8eaa'
+}
+Success! Entry added.
+{
+  object: 'page',
+  id: '68411acb-80e7-4e0c-9763-f89d30abf95e',
+  created_time: '2021-08-28T03:40:00.000Z',
+  last_edited_time: '2021-08-28T03:40:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/IELTS-Listening-68411acb80e74e0c9763f89d30abf95e'
+}
+Success! Entry added.
+End ... 
+
+
+2021-08-28T08:16:20.986Z 
+**********************
+2021-08-28T23:10:34.823Z 
+**********************
+2021-08-28T23:17:19.649Z 
+**********************
+{
+  object: 'page',
+  id: '75d272bc-5d9a-4749-8d1e-3c8e0a4e8b1e',
+  created_time: '2021-08-28T03:40:00.000Z',
+  last_edited_time: '2021-08-28T12:28:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-75d272bc5d9a47498d1e3c8e0a4e8b1e'
+}
+{
+  object: 'page',
+  id: '2f446993-2749-466b-9e1f-9c5f51a4e82c',
+  created_time: '2021-08-28T23:17:00.000Z',
+  last_edited_time: '2021-08-28T23:17:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-2f4469932749466b9e1f9c5f51a4e82c'
+}
+Success! Entry added.
+End ... 
+
+
+2021-08-30T03:00:13.122Z 
+**********************
+{
+  object: 'page',
+  id: '2f446993-2749-466b-9e1f-9c5f51a4e82c',
+  created_time: '2021-08-28T23:17:00.000Z',
+  last_edited_time: '2021-08-29T12:39:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-2f4469932749466b9e1f9c5f51a4e82c'
+}
+{
+  object: 'page',
+  id: '176f4b1d-89a3-413a-86e9-127aa74d2ef7',
+  created_time: '2021-08-30T03:00:00.000Z',
+  last_edited_time: '2021-08-30T03:00:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-176f4b1d89a3413a86e9127aa74d2ef7'
+}
+Success! Entry added.
+End ... 
+
+
+2021-08-30T03:00:29.392Z 
+**********************
+No Updates.
+End ... 
+
+
+2021-09-02T15:18:37.067Z 
+**********************
+{
+  object: 'page',
+  id: '176f4b1d-89a3-413a-86e9-127aa74d2ef7',
+  created_time: '2021-08-30T03:00:00.000Z',
+  last_edited_time: '2021-08-31T13:01:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-176f4b1d89a3413a86e9127aa74d2ef7'
+}
+{
+  object: 'page',
+  id: '384b1e96-8ba7-4f1f-8ea0-5c9f4ba2bcb8',
+  created_time: '2021-08-28T03:40:00.000Z',
+  last_edited_time: '2021-09-02T03:53:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-384b1e968ba74f1f8ea05c9f4ba2bcb8'
+}
+{
+  object: 'page',
+  id: '932902f2-31a4-4fa5-a5b5-46c902066c0d',
+  created_time: '2021-09-02T15:18:00.000Z',
+  last_edited_time: '2021-09-02T15:18:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-932902f231a44fa5a5b546c902066c0d'
+}
+Success! Entry added.
+{
+  object: 'page',
+  id: '8066dde2-d9df-48dc-86af-bdbd4ff0a978',
+  created_time: '2021-09-02T15:18:00.000Z',
+  last_edited_time: '2021-09-02T15:18:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-8066dde2d9df48dc86afbdbd4ff0a978'
+}
+Success! Entry added.
+End ... 
+
+
+2021-09-05T02:48:53.408Z 
+**********************
+{
+  object: 'page',
+  id: '932902f2-31a4-4fa5-a5b5-46c902066c0d',
+  created_time: '2021-09-02T15:18:00.000Z',
+  last_edited_time: '2021-09-04T08:25:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-932902f231a44fa5a5b546c902066c0d'
+}
+{
+  object: 'page',
+  id: '8cf67276-3cfd-46a1-8f56-8f5552e2e4d5',
+  created_time: '2021-09-05T02:48:00.000Z',
+  last_edited_time: '2021-09-05T02:48:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-8cf672763cfd46a18f568f5552e2e4d5'
+}
+Success! Entry added.
+End ... 
+
+
+2021-09-06T02:26:54.367Z 
+**********************
+{
+  object: 'page',
+  id: '8cf67276-3cfd-46a1-8f56-8f5552e2e4d5',
+  created_time: '2021-09-05T02:48:00.000Z',
+  last_edited_time: '2021-09-05T04:01:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-8cf672763cfd46a18f568f5552e2e4d5'
+}
+{
+  object: 'page',
+  id: '8066dde2-d9df-48dc-86af-bdbd4ff0a978',
+  created_time: '2021-09-02T15:18:00.000Z',
+  last_edited_time: '2021-09-05T08:01:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-8066dde2d9df48dc86afbdbd4ff0a978'
+}
+{
+  object: 'page',
+  id: '73fb7075-676f-4546-b835-b7a72d74e3f0',
+  created_time: '2021-09-06T02:26:00.000Z',
+  last_edited_time: '2021-09-06T02:26:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-73fb7075676f4546b835b7a72d74e3f0'
+}
+Success! Entry added.
+{
+  object: 'page',
+  id: '45f5e504-47cc-49bd-a2dc-abcc313fff7c',
+  created_time: '2021-09-06T02:26:00.000Z',
+  last_edited_time: '2021-09-06T02:26:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-45f5e50447cc49bda2dcabcc313fff7c'
+}
+Success! Entry added.
+End ... 
+
+
+2021-09-07T01:34:05.447Z 
+**********************
+{
+  object: 'page',
+  id: '45f5e504-47cc-49bd-a2dc-abcc313fff7c',
+  created_time: '2021-09-06T02:26:00.000Z',
+  last_edited_time: '2021-09-06T06:21:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-45f5e50447cc49bda2dcabcc313fff7c'
+}
+{
+  object: 'page',
+  id: '73fb7075-676f-4546-b835-b7a72d74e3f0',
+  created_time: '2021-09-06T02:26:00.000Z',
+  last_edited_time: '2021-09-06T03:06:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-73fb7075676f4546b835b7a72d74e3f0'
+}
+{
+  object: 'page',
+  id: 'a59f27fa-3bae-4f5e-ba19-adbfb7b69488',
+  created_time: '2021-09-07T01:34:00.000Z',
+  last_edited_time: '2021-09-07T01:34:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-a59f27fa3bae4f5eba19adbfb7b69488'
+}
+Success! Entry added.
+{
+  object: 'page',
+  id: '050b8403-6059-4bb8-b391-321e1afc5246',
+  created_time: '2021-09-07T01:34:00.000Z',
+  last_edited_time: '2021-09-07T01:34:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-050b840360594bb8b391321e1afc5246'
+}
+Success! Entry added.
+End ... 
+
+
+2021-09-07T14:25:51.734Z 
+**********************
+{
+  object: 'page',
+  id: '050b8403-6059-4bb8-b391-321e1afc5246',
+  created_time: '2021-09-07T01:34:00.000Z',
+  last_edited_time: '2021-09-07T02:48:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-050b840360594bb8b391321e1afc5246'
+}
+{
+  object: 'page',
+  id: 'a59f27fa-3bae-4f5e-ba19-adbfb7b69488',
+  created_time: '2021-09-07T01:34:00.000Z',
+  last_edited_time: '2021-09-07T04:02:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-a59f27fa3bae4f5eba19adbfb7b69488'
+}
+2021-09-07T14:26:00.956Z 
+**********************
+{
+  object: 'page',
+  id: '050b8403-6059-4bb8-b391-321e1afc5246',
+  created_time: '2021-09-07T01:34:00.000Z',
+  last_edited_time: '2021-09-07T02:48:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-050b840360594bb8b391321e1afc5246'
+}
+{
+  object: 'page',
+  id: 'a59f27fa-3bae-4f5e-ba19-adbfb7b69488',
+  created_time: '2021-09-07T01:34:00.000Z',
+  last_edited_time: '2021-09-07T04:02:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-a59f27fa3bae4f5eba19adbfb7b69488'
+}
+{
+  object: 'page',
+  id: '8e417631-4cf2-4989-a85e-cca109117e61',
+  created_time: '2021-09-07T14:26:00.000Z',
+  last_edited_time: '2021-09-07T14:26:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-8e4176314cf24989a85ecca109117e61'
+}
+Success! Entry added.
+{
+  object: 'page',
+  id: 'bbc55447-783c-415c-af51-32843cb772a0',
+  created_time: '2021-09-07T14:26:00.000Z',
+  last_edited_time: '2021-09-07T14:26:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-bbc55447783c415caf5132843cb772a0'
+}
+Success! Entry added.
+End ... 
+
+
+2021-09-07T14:26:19.177Z 
+**********************
+No Updates.
+End ... 
+
+

@@ -1,4 +1,5 @@
 #!/bin/bash
-cd /home/charlie/codes/Projects/notionJs/notion-example/
+cd $(pwd)
+source ./.myexport
 node DailyTracker.js 2>&1 >> ./DailyTracker.log
 cd -

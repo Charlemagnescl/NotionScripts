@@ -910,3 +910,90 @@ No Updates.
 End ... 
 
 
+2021-09-12T15:12:31.496Z 
+**********************
+{
+  object: 'page',
+  id: 'bbc55447-783c-415c-af51-32843cb772a0',
+  created_time: '2021-09-07T14:26:00.000Z',
+  last_edited_time: '2021-09-08T07:36:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-bbc55447783c415caf5132843cb772a0'
+}
+{
+  object: 'page',
+  id: '8e417631-4cf2-4989-a85e-cca109117e61',
+  created_time: '2021-09-07T14:26:00.000Z',
+  last_edited_time: '2021-09-08T01:51:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: true },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-8e4176314cf24989a85ecca109117e61'
+}
+{
+  object: 'page',
+  id: '81cf6691-2724-4ebf-95aa-1df7345b849d',
+  created_time: '2021-09-12T15:12:00.000Z',
+  last_edited_time: '2021-09-12T15:12:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/The-Economist-Reading-1-article-81cf669127244ebf95aa1df7345b849d'
+}
+Success! Entry added.
+{
+  object: 'page',
+  id: 'ab50ce51-0784-42e0-94cb-d88b18c10711',
+  created_time: '2021-09-12T15:12:00.000Z',
+  last_edited_time: '2021-09-12T15:12:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '6f312e5d-f190-49e0-836a-8a1c3a080ae7'
+  },
+  archived: false,
+  properties: {
+    Date: { id: '>ouR', type: 'date', date: [Object] },
+    Frequency: { id: 'QW?k', type: 'select', select: [Object] },
+    Done: { id: 'YglD', type: 'checkbox', checkbox: false },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Words-Remember-ab50ce51078442e094cbd88b18c10711'
+}
+Success! Entry added.
+End ... 
+
+

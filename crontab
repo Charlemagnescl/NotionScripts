@@ -1,3 +1,3 @@
 # for Notion Scripts
 # execute once.sh everyday on 5:00 am
-0 5 * * * sh /root/Scripts/NotionScripts/once.sh
+0 5 * * * sh /root/Scripts/NotionScripts/once.sh >> /tmp/cron_debug_log.log 2>&1
